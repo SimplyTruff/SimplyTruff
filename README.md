@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquín Berardo</h1>
 <h3 align="center">A passionate web development from Argentina</h3>
 
-- 🌱 I’m currently learning **HTML5,CSS,JS,RUBY**
+- 🌱 I’m currently learning **HTML5,CSS,JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
